@@ -1,9 +1,6 @@
 # Web-Mapping-Curriculum
 
-Tommy Alexander, USF MSEM
-
-Class Meetings:	Thursdays, 6:30pm–9:30pm, 01/16 - 03/05
-<br>Room/Bldg:  Harney G24
+;)
 
 ----
 
